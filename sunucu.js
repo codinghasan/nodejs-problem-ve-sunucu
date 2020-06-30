@@ -1,4 +1,4 @@
-sonuc = require('./problem.js');
+let sonuc = require('./problem.js');
 let http = require('http');
 let fs = require('fs');
  
